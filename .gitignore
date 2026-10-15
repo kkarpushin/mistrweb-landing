@@ -1,0 +1,6 @@
+node_modules
+dist
+# Higgsfield sources: reference-mockup crops, job JSON with account ids, raw renders
+media-src/
+*.log
+.DS_Store
